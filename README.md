@@ -119,8 +119,9 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 Se tiver dúvidas ou sugestões, entre em contato:
 
 📧🐙 GitHub & Email: 
-- douglasm8989@outlook.com (Jaelson Matias)
-- lucasiglezias@icloud.com (Lucas Iglezias)
-- gus.ribeirolima@hotmail.com (Gustavo Ribeiro)
+- negreiros.fernando@gmail.com - Fernando Negreiros
+- gus.ribeirolima@hotmail.com - Gustavo Ribeiro
+- juanmartins07.jj@gmail.com - Juan Martins
+- muriloweyne1@gmail.com - Murilo Weyne
 
 
