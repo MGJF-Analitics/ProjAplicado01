@@ -1,8 +1,7 @@
 ## Quem somos
 
-Impulsionamos Negócios com Dados Inteligentes, na JLG Data & Analytics, transformamos dados em insights estratégicos para acelerar o crescimento do seu negócio. Com expertise em Data Science, Analytics e IA.
+Impulsionamos Negócios com Dados Inteligentes, na MGJF Analytics, transformamos dados em insights estratégicos para acelerar o crescimento do seu negócio. Com expertise em Data Science, Analytics e IA.
 
-![cover](img/company.jpg)
 
 ---
 
@@ -88,8 +87,8 @@ O projeto segue a seguinte abordagem:
 ### Clone este repositório  
 
 ```sh
-git clone https://github.com/seu-usuario/projeto_aplicado_1.git
-cd projeto_aplicado_1
+git clone https://github.com/seu-usuario/ProjAplicado01.git
+cd ProjAplicado01
 ```
 ---
 
